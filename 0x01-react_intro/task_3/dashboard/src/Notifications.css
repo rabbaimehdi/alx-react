@@ -18,3 +18,11 @@
 [data-priority="urgent"] {
   color: #e01d3f;
 }
+
+#email {
+  margin : 10px
+}
+
+#password {
+  margin : 10px
+}
