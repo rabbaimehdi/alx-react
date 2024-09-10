@@ -15,6 +15,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "aphrodite": "^2.4.0",
+    "caniuse-lite": "^1.0.30001660",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
