@@ -21,11 +21,11 @@ afterEach(() => {
   container = null;
 });
 
-it("renders the year 2021", () => {
+it("renders the year 2024", () => {
   act(() => {
     render(getFullYear(), container);
   });
-  expect(container.textContent).toBe("2021");
+  expect(container.textContent).toBe("2024");
 });
 
 it("checks getFooterCopy returns the correct string when true", () => {
